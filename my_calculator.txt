@@ -2,3 +2,6 @@ cout<<"Afaq Ahmad"<<endl;;;;
 cout<<"2023dddd213"<endl;;;
 
 cout<<a+b<<endl;;;
+cout<<a-b<<endl;;
+cout<<'a*b'<<endl;
+cout<<a/b<<endl;;;;
