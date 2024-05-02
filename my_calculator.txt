@@ -7,3 +7,5 @@ cout<<'a*b'<<endl;
 cout<<a/b<<endl;;;;
 
 editing a file
+
+adding a new line in gitHub
