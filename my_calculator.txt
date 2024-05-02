@@ -1,0 +1,2 @@
+cout<<"Afaq Ahmad"<<endl;;;;
+cout<<"2023dddd213"<endl;;;
